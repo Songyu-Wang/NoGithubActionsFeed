@@ -1,4 +1,4 @@
-# No Github Actions Feed
+# No Github Actions Feed (Chrome extension)
 
 Filter out all the bot feed from Github Actions on https://github.com/
 
