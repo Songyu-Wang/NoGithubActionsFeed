@@ -8,7 +8,7 @@ Useful when you have scheduled push events in your repos
 
 Chrome Web Store keep rejecting it with standard reply, so I am not gonna bother anymore.
 
-If you find this extension useful for you, you have enough knowledge to figure out how to use it.
+If you find this extension useful, you have enough knowledge to figure out how to use it.
 If you can't figure out how to use this in developer mode, I doubt you need this :)
 
 
